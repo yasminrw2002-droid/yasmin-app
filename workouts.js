@@ -1,0 +1,1 @@
+const workouts={"Lower A":["Goblet Squat","Romanian Deadlift","Leg Press","Reverse Lunge"],"Upper A":["DB Bench Press","Lat Pulldown","Cable Row","Lateral Raise"],"Lower B":["Hip Thrust","Split Squat","Leg Curl","Leg Extension"],"Upper B":["Chest Supported Row","Incline DB Press","Pull Down","DB Curl"]};
